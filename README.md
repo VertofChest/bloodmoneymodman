@@ -1,11 +1,12 @@
 <p align="center">
 	<img width="600" height="400" src=".github/logo.png">
 </p>
-BloodMoneyModMan
------
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## A Work-In-Progress Mod Manager for Hitman Blood Money.
+BloodMoneyModMan</br>
 ------------
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## A Work-In-Progress Mod Manager for Hitman Blood Money.
 Welcome and thank you for checking out Hitman Blood Money Mod Manager (HBMMM)
 
 This is a beta release of the mod manager, some features may be broken or incomplete.
@@ -16,7 +17,6 @@ See Documentation and Examples for examples on how to use this mod manager.
 ### Any other files not properly labeled in mod.txt or named appropriately will be simply placed in the game's main directory
 
 # Contact Information
--------------
 You may feel free to contact me at any time through any of my available means, either here on our issue tracker, the NexusMods page, or the project Discord for tips, suggestions or inquiries.
 
 <a href="https://www.nexusmods.com/hitmanbloodmoney/mods/42">
