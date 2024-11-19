@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="400" height="400" src=".github/logo.png">
+	<img width="600" height="400" src=".github/logo.png">
 </p>
 BloodMoneyModMan
 -----
